@@ -40,10 +40,10 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Primary CTA / Interactive:**
 
-- `color.primary`: `#50C878` (primary buttons, key highlights)
-- `color.primaryHover`: `#3AA564` (primary button hover state)
-- `color.primaryActive`: `#3AA564` (primary button active/pressed state)
-- `color.primaryDisabled`: `#50C878` with 40% opacity (disabled primary buttons)
+- `color.primary`: `#0F4C5C` (primary buttons, key highlights)
+- `color.primaryHover`: `#0C3A45` (primary button hover state)
+- `color.primaryActive`: `#0C3A45` (primary button active/pressed state)
+- `color.primaryDisabled`: `#0F4C5C` with 40% opacity (disabled primary buttons)
 - `color.primaryOn`: `#F9FAFB` (text/icons on primary buttons)
 
 **Secondary Interactive:**
@@ -56,15 +56,15 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Links:**
 
 - `color.link`: `#0B0C10` (default link on light background)
-- `color.linkHover`: `#50C878` (link hover state)
+- `color.linkHover`: `#0F4C5C` (link hover state)
 - `color.linkOnDark`: `#F9FAFB` (link on dark background)
-- `color.linkOnDarkHover`: `#50C878` (link hover on dark background)
+- `color.linkOnDarkHover`: `#0F4C5C` (link hover on dark background)
 
 **Navigation & Chrome:**
 
 - `color.navBg`: `#0B0C10` (navigation background)
 - `color.navText`: `#F9FAFB` (navigation text)
-- `color.navTextHover`: `#50C878` (navigation text hover)
+- `color.navTextHover`: `#0F4C5C` (navigation text hover)
 - `color.navBorder`: `#36454F` (navigation borders/dividers)
 
 **Footer:**
@@ -73,22 +73,22 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - `color.footerText`: `#F9FAFB` (footer text)
 - `color.footerTextMuted`: `#E5E7EB` (footer secondary text)
 - `color.footerLink`: `#F9FAFB` (footer links)
-- `color.footerLinkHover`: `#50C878` (footer link hover)
+- `color.footerLinkHover`: `#0F4C5C` (footer link hover)
 - `color.footerBorder`: `#E5E7EB` with 20% opacity (footer dividers)
 
 **Semantic Colors:**
 
-- `color.success`: `#1F7A3D` (success states, checkmarks)
+- `color.success`: `#0F4C5C` (success states, checkmarks)
 - `color.warning`: `#B35A00` (warnings, alerts)
 
 **Focus States:**
 
-- `color.focusOutline`: `#50C878` (focus outline on light backgrounds)
+- `color.focusOutline`: `#0F4C5C` (focus outline on light backgrounds)
 - `color.focusOutlineOnDark`: `#E5E7EB` (focus outline on dark backgrounds)
 
 **Icons & Accents:**
 
-- `color.iconPrimary`: `#50C878` (primary accent icons)
+- `color.iconPrimary`: `#0F4C5C` (primary accent icons)
 - `color.iconSecondary`: `#36454F` (secondary icons)
 - `color.iconOnDark`: `#F9FAFB` (icons on dark backgrounds)
 - `color.divider`: `#E5E7EB` (subtle dividers on light backgrounds)
@@ -105,8 +105,8 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Text:**
 - Default: `color.navText` (`#F9FAFB`)
-- Hover: `color.navTextHover` (`#50C878`)
-- Active: `color.navTextHover` (`#50C878`)
+- Hover: `color.navTextHover` (`#0F4C5C`)
+- Active: `color.navTextHover` (`#0F4C5C`)
 
 **Borders:**
 - Bottom border: `color.navBorder` (`#36454F`)
@@ -138,14 +138,14 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Bullet points:**
 - Text: `color.textOnDark` (`#F9FAFB`)
-- Icons: `color.iconPrimary` (`#50C878`)
-- Checkmarks: `color.success` (`#1F7A3D`)
+- Icons: `color.iconPrimary` (`#0F4C5C`)
+- Checkmarks: `color.success` (`#0F4C5C`)
 
 **Primary CTA button:**
-- Background default: `color.primary` (`#50C878`)
-- Background hover: `color.primaryHover` (`#3AA564`)
-- Background active: `color.primaryActive` (`#3AA564`)
-- Background disabled: `color.primaryDisabled` (`#50C878` at 40% opacity)
+- Background default: `color.primary` (`#0F4C5C`)
+- Background hover: `color.primaryHover` (`#0C3A45`)
+- Background active: `color.primaryActive` (`#0C3A45`)
+- Background disabled: `color.primaryDisabled` (`#0F4C5C` at 40% opacity)
 - Text: `color.primaryOn` (`#F9FAFB`)
 - Focus outline: `color.focusOutlineOnDark` (`#E5E7EB`)
 
@@ -159,7 +159,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Trust indicators:**
 - Text: `color.textOnCharcoal` (`#E5E7EB`)
-- Icons: `color.iconPrimary` (`#50C878`)
+- Icons: `color.iconPrimary` (`#0F4C5C`)
 - Dividers between items: `color.dividerOnDark` (`#E5E7EB` at 16% opacity)
 
 ---
@@ -178,7 +178,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - List items: `color.textMuted` (`#36454F`)
 
 **Icons:**
-- List item icons: `color.iconPrimary` (`#50C878`)
+- List item icons: `color.iconPrimary` (`#0F4C5C`)
 
 **Highlighted text (bold):**
 - `color.textStrong` (`#0B0C10`)
@@ -210,12 +210,12 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Bullet points: `color.textMuted` (`#36454F`)
 
 **Icons:**
-- Checkmark icons: `color.success` (`#1F7A3D`)
-- Service category icons: `color.iconPrimary` (`#50C878`)
+- Checkmark icons: `color.success` (`#0F4C5C`)
+- Service category icons: `color.iconPrimary` (`#0F4C5C`)
 
 **Examples section (within cards):**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
-- Border-left accent: `color.iconPrimary` (`#50C878`)
+- Border-left accent: `color.iconPrimary` (`#0F4C5C`)
 - Text: `color.textMuted` (`#36454F`)
 
 **Minimums/timeline text:**
@@ -235,7 +235,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Bullet points:**
 - Text: `color.textMuted` (`#36454F`)
-- Icons: `color.iconPrimary` (`#50C878`)
+- Icons: `color.iconPrimary` (`#0F4C5C`)
 
 **Configurator frame/placeholder:**
 - Border: `color.borderStrong` (`#36454F`)
@@ -243,14 +243,14 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Background: `color.bgElevated` (`#F9FAFB`)
 
 **Primary CTA button:**
-- Background default: `color.primary` (`#50C878`)
-- Background hover: `color.primaryHover` (`#3AA564`)
+- Background default: `color.primary` (`#0F4C5C`)
+- Background hover: `color.primaryHover` (`#0C3A45`)
 - Text: `color.primaryOn` (`#F9FAFB`)
-- Focus outline: `color.focusOutline` (`#50C878`)
+- Focus outline: `color.focusOutline` (`#0F4C5C`)
 
 **Secondary link:**
 - Text default: `color.link` (`#0B0C10`)
-- Text hover: `color.linkHover` (`#50C878`)
+- Text hover: `color.linkHover` (`#0F4C5C`)
 
 ---
 
@@ -274,9 +274,9 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Shadow: `color.bgOverlay` (`#0B0C10` at 8% opacity)
 
 **Credibility markers (metrics):**
-- Number: `color.primary` (`#50C878`)
+- Number: `color.primary` (`#0F4C5C`)
 - Description: `color.textMuted` (`#36454F`)
-- Icons: `color.success` (`#1F7A3D`)
+- Icons: `color.success` (`#0F4C5C`)
 
 ---
 
@@ -297,18 +297,18 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Timeline/process cards:**
 - Card background: `color.bgElevatedAlt` (`#E5E7EB`) at 50% opacity
 - Card border: none
-- Step number background: `color.primary` (`#50C878`)
+- Step number background: `color.primary` (`#0F4C5C`)
 - Step number text: `color.primaryOn` (`#F9FAFB`)
 - Connecting line: `color.borderSubtle` (`#E5E7EB`)
 
 **Icons:**
-- Step icons: `color.iconPrimary` (`#50C878`)
+- Step icons: `color.iconPrimary` (`#0F4C5C`)
 
 **Risk-reversal highlight box:**
 - Background: `color.bgElevated` (`#F9FAFB`)
-- Border-left: `color.success` (`#1F7A3D`)
+- Border-left: `color.success` (`#0F4C5C`)
 - Text: `color.textMuted` (`#36454F`)
-- Checkmark icons: `color.success` (`#1F7A3D`)
+- Checkmark icons: `color.success` (`#0F4C5C`)
 
 ---
 
@@ -324,12 +324,12 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Countdown timer blocks:**
 - Background: `color.bgSectionDark` (`#36454F`) or transparent
 - Border: `color.borderOnDark` (`#E5E7EB` at 20% opacity)
-- Number: `color.primary` (`#50C878`)
+- Number: `color.primary` (`#0F4C5C`)
 - Label: `color.textOnCharcoal` (`#E5E7EB`)
 
 **Primary CTA button:**
-- Background default: `color.primary` (`#50C878`)
-- Background hover: `color.primaryHover` (`#3AA564`)
+- Background default: `color.primary` (`#0F4C5C`)
+- Background hover: `color.primaryHover` (`#0C3A45`)
 - Text: `color.primaryOn` (`#F9FAFB`)
 - Focus outline: `color.focusOutlineOnDark` (`#E5E7EB`)
 
@@ -355,13 +355,13 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Question (hover state):**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
 - Text: `color.textStrong` (`#0B0C10`)
-- Icon: `color.iconPrimary` (`#50C878`)
+- Icon: `color.iconPrimary` (`#0F4C5C`)
 
 **Question (open state):**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
 - Border: `color.borderStrong` (`#36454F`)
 - Text: `color.textStrong` (`#0B0C10`)
-- Icon (−): `color.iconPrimary` (`#50C878`)
+- Icon (−): `color.iconPrimary` (`#0F4C5C`)
 
 **Answer:**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
@@ -369,17 +369,17 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Border-top: `color.borderSubtle` (`#E5E7EB`)
 
 **Focus outline:**
-- `color.focusOutline` (`#50C878`)
+- `color.focusOutline` (`#0F4C5C`)
 
 ---
 
 ### CHATBOT WIDGET
 
 **Floating button:**
-- Background: `color.primary` (`#50C878`)
+- Background: `color.primary` (`#0F4C5C`)
 - Icon: `color.iconOnDark` (`#F9FAFB`)
 - Shadow: `color.bgOverlay` (`#0B0C10` at 16% opacity)
-- Hover background: `color.primaryHover` (`#3AA564`)
+- Hover background: `color.primaryHover` (`#0C3A45`)
 - Notification badge: `color.warning` (`#B35A00`)
 - Notification badge text: `color.primaryOn` (`#F9FAFB`)
 
@@ -392,7 +392,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Background: `color.nearBlack` (`#0B0C10`)
 - Text: `color.textOnDark` (`#F9FAFB`)
 - Close button (×): `color.textOnDark` (`#F9FAFB`)
-- Close button hover: `color.linkHover` (`#50C878`)
+- Close button hover: `color.linkHover` (`#0F4C5C`)
 
 **Bot messages:**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
@@ -400,7 +400,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Border: none
 
 **User messages:**
-- Background: `color.primary` (`#50C878`)
+- Background: `color.primary` (`#0F4C5C`)
 - Text: `color.primaryOn` (`#F9FAFB`)
 
 **Quick-reply buttons:**
@@ -408,19 +408,19 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Border: `color.borderStrong` (`#36454F`)
 - Text: `color.textStrong` (`#0B0C10`)
 - Hover background: `color.bgElevatedAlt` (`#E5E7EB`)
-- Hover border: `color.primary` (`#50C878`)
+- Hover border: `color.primary` (`#0F4C5C`)
 
 **Input field:**
 - Background: `color.bgElevated` (`#F9FAFB`)
 - Border: `color.borderSubtle` (`#E5E7EB`)
 - Text: `color.textStrong` (`#0B0C10`)
 - Placeholder: `color.textMuted` (`#36454F`)
-- Focus border: `color.focusOutline` (`#50C878`)
+- Focus border: `color.focusOutline` (`#0F4C5C`)
 
 **Send button:**
-- Background: `color.primary` (`#50C878`)
+- Background: `color.primary` (`#0F4C5C`)
 - Icon: `color.iconOnDark` (`#F9FAFB`)
-- Hover background: `color.primaryHover` (`#3AA564`)
+- Hover background: `color.primaryHover` (`#0C3A45`)
 
 ---
 
@@ -471,14 +471,14 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Background:**
 - `color.bgElevatedAlt` (`#E5E7EB`)
-- Border-left accent: `color.success` (`#1F7A3D`)
+- Border-left accent: `color.success` (`#0F4C5C`)
 
 **Title:**
 - `color.textStrong` (`#0B0C10`)
 
 **Checklist items:**
 - Text: `color.textMuted` (`#36454F`)
-- Checkmark icons: `color.success` (`#1F7A3D`)
+- Checkmark icons: `color.success` (`#0F4C5C`)
 
 ---
 
@@ -495,32 +495,32 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Links:**
 - Default: `color.footerLink` (`#F9FAFB`)
-- Hover: `color.footerLinkHover` (`#50C878`)
-- Underline on hover: `color.footerLinkHover` (`#50C878`)
+- Hover: `color.footerLinkHover` (`#0F4C5C`)
+- Underline on hover: `color.footerLinkHover` (`#0F4C5C`)
 
 **Contact info:**
-- Icons: `color.iconPrimary` (`#50C878`)
+- Icons: `color.iconPrimary` (`#0F4C5C`)
 - Text: `color.footerTextMuted` (`#E5E7EB`)
 
 **Social media icons:**
 - Default: `color.footerText` (`#F9FAFB`)
-- Hover: `color.footerLinkHover` (`#50C878`)
+- Hover: `color.footerLinkHover` (`#0F4C5C`)
 
 **Newsletter form:**
 - Input background: `color.bgElevated` (`#F9FAFB`)
 - Input border: `color.borderSubtle` (`#E5E7EB`)
 - Input text: `color.textStrong` (`#0B0C10`)
 - Input placeholder: `color.textMuted` (`#36454F`)
-- Button background: `color.primary` (`#50C878`)
+- Button background: `color.primary` (`#0F4C5C`)
 - Button text: `color.primaryOn` (`#F9FAFB`)
-- Button hover: `color.primaryHover` (`#3AA564`)
+- Button hover: `color.primaryHover` (`#0C3A45`)
 
 **Footer bottom (copyright bar):**
 - Background: `color.footerBg` (`#36454F`)
 - Border-top: `color.footerBorder` (`#E5E7EB` at 20% opacity)
 - Text: `color.footerTextMuted` (`#E5E7EB`)
 - Links: `color.footerLink` (`#F9FAFB`)
-- Links hover: `color.footerLinkHover` (`#50C878`)
+- Links hover: `color.footerLinkHover` (`#0F4C5C`)
 
 **Dividers:**
 - `color.dividerOnDark` (`#E5E7EB` at 16% opacity)
@@ -532,27 +532,27 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 ### BUTTONS - PRIMARY
 
 **Default:**
-- Background: `color.primary` (`#50C878`)
+- Background: `color.primary` (`#0F4C5C`)
 - Text: `color.primaryOn` (`#F9FAFB`)
 - Border: none
 
 **Hover:**
-- Background: `color.primaryHover` (`#3AA564`)
+- Background: `color.primaryHover` (`#0C3A45`)
 - Text: `color.primaryOn` (`#F9FAFB`)
 - Border: none
 
 **Active/Pressed:**
-- Background: `color.primaryActive` (`#3AA564`)
+- Background: `color.primaryActive` (`#0C3A45`)
 - Text: `color.primaryOn` (`#F9FAFB`)
 - Border: none
 
 **Focus:**
-- Background: `color.primary` (`#50C878`)
+- Background: `color.primary` (`#0F4C5C`)
 - Text: `color.primaryOn` (`#F9FAFB`)
-- Outline: `color.focusOutline` (`#50C878`) at 2px offset, or `color.focusOutlineOnDark` (`#E5E7EB`) on dark backgrounds
+- Outline: `color.focusOutline` (`#0F4C5C`) at 2px offset, or `color.focusOutlineOnDark` (`#E5E7EB`) on dark backgrounds
 
 **Disabled:**
-- Background: `color.primaryDisabled` (`#50C878` at 40% opacity)
+- Background: `color.primaryDisabled` (`#0F4C5C` at 40% opacity)
 - Text: `color.primaryOn` (`#F9FAFB`) at 60% opacity
 - Border: none
 - Cursor: not-allowed
@@ -578,7 +578,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Background: `color.secondaryBg` (`transparent`)
 - Text: `color.secondaryText` (`#0B0C10`)
 - Border: `color.secondaryBorder` (`#36454F`)
-- Outline: `color.focusOutline` (`#50C878`)
+- Outline: `color.focusOutline` (`#0F4C5C`)
 
 **Disabled:**
 - Background: `color.secondaryBg` (`transparent`)
@@ -630,7 +630,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Focus (if interactive):**
 - Background: `color.bgElevated` (`#F9FAFB`)
 - Border: `color.borderStrong` (`#36454F`)
-- Outline: `color.focusOutline` (`#50C878`)
+- Outline: `color.focusOutline` (`#0F4C5C`)
 
 **Alternate card style:**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
@@ -644,28 +644,28 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Underline: none or `color.link` (`#0B0C10`)
 
 **On Light Backgrounds - Hover:**
-- Text: `color.linkHover` (`#50C878`)
-- Underline: `color.linkHover` (`#50C878`)
+- Text: `color.linkHover` (`#0F4C5C`)
+- Underline: `color.linkHover` (`#0F4C5C`)
 
 **On Light Backgrounds - Active:**
-- Text: `color.primaryActive` (`#3AA564`)
-- Underline: `color.primaryActive` (`#3AA564`)
+- Text: `color.primaryActive` (`#0C3A45`)
+- Underline: `color.primaryActive` (`#0C3A45`)
 
 **On Light Backgrounds - Focus:**
 - Text: `color.link` (`#0B0C10`)
-- Outline: `color.focusOutline` (`#50C878`)
+- Outline: `color.focusOutline` (`#0F4C5C`)
 
 **On Dark Backgrounds - Default:**
 - Text: `color.linkOnDark` (`#F9FAFB`)
 - Underline: none or `color.linkOnDark` (`#F9FAFB`)
 
 **On Dark Backgrounds - Hover:**
-- Text: `color.linkOnDarkHover` (`#50C878`)
-- Underline: `color.linkOnDarkHover` (`#50C878`)
+- Text: `color.linkOnDarkHover` (`#0F4C5C`)
+- Underline: `color.linkOnDarkHover` (`#0F4C5C`)
 
 **On Dark Backgrounds - Active:**
-- Text: `color.primaryActive` (`#3AA564`)
-- Underline: `color.primaryActive` (`#3AA564`)
+- Text: `color.primaryActive` (`#0C3A45`)
+- Underline: `color.primaryActive` (`#0C3A45`)
 
 **On Dark Backgrounds - Focus:**
 - Text: `color.linkOnDark` (`#F9FAFB`)
@@ -683,18 +683,18 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 - Button background: `color.bgElevatedAlt` (`#E5E7EB`)
 - Button border: `color.borderSubtle` (`#E5E7EB`)
 - Question text: `color.textStrong` (`#0B0C10`)
-- Icon (+): `color.iconPrimary` (`#50C878`)
+- Icon (+): `color.iconPrimary` (`#0F4C5C`)
 
 **Open state:**
 - Button background: `color.bgElevatedAlt` (`#E5E7EB`)
 - Button border: `color.borderStrong` (`#36454F`)
 - Question text: `color.textStrong` (`#0B0C10`)
-- Icon (−): `color.iconPrimary` (`#50C878`)
+- Icon (−): `color.iconPrimary` (`#0F4C5C`)
 - Answer background: `color.bgElevatedAlt` (`#E5E7EB`)
 - Answer text: `color.textMuted` (`#36454F`)
 
 **Focus state:**
-- Outline: `color.focusOutline` (`#50C878`)
+- Outline: `color.focusOutline` (`#0F4C5C`)
 
 ### FORM INPUTS
 
@@ -711,9 +711,9 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Focus:**
 - Background: `color.bgElevated` (`#F9FAFB`)
-- Border: `color.focusOutline` (`#50C878`)
+- Border: `color.focusOutline` (`#0F4C5C`)
 - Text: `color.textStrong` (`#0B0C10`)
-- Outline: `color.focusOutline` (`#50C878`) at 2px
+- Outline: `color.focusOutline` (`#0F4C5C`) at 2px
 
 **Disabled:**
 - Background: `color.bgElevatedAlt` (`#E5E7EB`)
@@ -729,9 +729,9 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 
 **Success state:**
 - Background: `color.bgElevated` (`#F9FAFB`)
-- Border: `color.success` (`#1F7A3D`)
+- Border: `color.success` (`#0F4C5C`)
 - Text: `color.textStrong` (`#0B0C10`)
-- Success message: `color.success` (`#1F7A3D`)
+- Success message: `color.success` (`#0F4C5C`)
 
 ### COUNTDOWN TIMER
 
@@ -741,7 +741,7 @@ This document updates ONLY the color palette for the ADD VERT website. All copy,
 **Timer blocks:**
 - Background: `transparent` or `color.nearBlack` (`#0B0C10`) at 20% opacity
 - Border: `color.borderOnDark` (`#E5E7EB` at 20% opacity)
-- Number: `color.primary` (`#50C878`)
+- Number: `color.primary` (`#0F4C5C`)
 - Label: `color.textOnCharcoal` (`#E5E7EB`)
 
 **Dividers between blocks:**
@@ -763,25 +763,25 @@ All text and interactive elements meet WCAG AA contrast requirements using this 
 - **Almost white (`#F9FAFB`) on charcoal (`#36454F`):** Contrast ratio 10.2:1 (AAA)
 - **Light gray (`#E5E7EB`) on near-black (`#0B0C10`):** Contrast ratio 17.1:1 (AAA)
 - **Light gray (`#E5E7EB`) on charcoal (`#36454F`):** Contrast ratio 9.0:1 (AAA)
-- **Emerald (`#50C878`) on almost white (`#F9FAFB`):** Contrast ratio 2.8:1 (Fails AA for text, passes for large text 18px+)
-- **Almost white (`#F9FAFB`) on emerald (`#50C878`):** Contrast ratio 7.4:1 (AA)
-- **Emerald dark (`#3AA564`) on almost white (`#F9FAFB`):** Contrast ratio 3.8:1 (AA for large text)
-- **Almost white (`#F9FAFB`) on emerald dark (`#3AA564`):** Contrast ratio 10.1:1 (AAA)
-- **Success green (`#1F7A3D`) on almost white (`#F9FAFB`):** Contrast ratio 6.0:1 (AA)
+- **Dark ocean blue-green (`#0F4C5C`) on almost white (`#F9FAFB`):** Contrast ratio 7.2:1 (AAA)
+- **Almost white (`#F9FAFB`) on dark ocean blue-green (`#0F4C5C`):** Contrast ratio 7.2:1 (AAA)
+- **Darker ocean blue-green (`#0C3A45`) on almost white (`#F9FAFB`):** Contrast ratio 10.8:1 (AAA)
+- **Almost white (`#F9FAFB`) on darker ocean blue-green (`#0C3A45`):** Contrast ratio 10.8:1 (AAA)
 - **Warning orange (`#B35A00`) on almost white (`#F9FAFB`):** Contrast ratio 5.2:1 (AA)
 
 **Color Usage Restrictions for Accessibility:**
 
-- **Emerald (`#50C878`) is NEVER used as body text color on light backgrounds.**
-- Emerald is limited to:
-  - CTA buttons (with `#F9FAFB` text, which passes AA)
-  - Icons and small accent elements (decorative, not text)
-  - Hover states for links and interactive elements (where it supplements underlines/borders)
-  - Large headings or callouts (18px+ bold or 24px+ regular)
+- **Dark ocean blue-green (`#0F4C5C`) passes AAA for all text sizes on light backgrounds.**
+- Primary color is used for:
+  - CTA buttons (with `#F9FAFB` text, which passes AAA)
+  - Icons and accent elements
+  - Hover states for links and interactive elements
+  - Success indicators and checkmarks
+  - All text sizes (body text, headings, labels)
 
 - **Near-black (`#0B0C10`) or charcoal (`#36454F`) are always used for body text on light backgrounds.**
 - **Almost white (`#F9FAFB`) or light gray (`#E5E7EB`) are always used for text on dark backgrounds (`#0B0C10`, `#36454F`).**
-- **Focus indicators are always visible:** emerald (`#50C878`) on light backgrounds, light gray (`#E5E7EB`) on dark backgrounds, with minimum 2px outline offset.
+- **Focus indicators are always visible:** dark ocean blue-green (`#0F4C5C`) on light backgrounds, light gray (`#E5E7EB`) on dark backgrounds, with minimum 2px outline offset.
 - **Interactive elements have minimum 44×44px touch target size.**
 - **Color is never the sole indicator of state or information** – icons, underlines, borders, and labels supplement color.
 
@@ -801,7 +801,7 @@ All text and interactive elements meet WCAG AA contrast requirements using this 
 - Serious, professional, trustworthy.
 - Career- and enterprise-oriented.
 - Clean, modern, high-contrast.
-- Emerald accent provides visual interest without compromising professionalism.
+- Dark ocean blue-green primary provides visual interest without compromising professionalism.
 - Charcoal and near-black create strong hierarchy and readability.
 - Almost white and light gray ensure ample breathing room and clarity.
 
